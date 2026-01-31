@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-_+vr7z1is5ijqjc*sa7^tzb&&hw7@9*y2nvsen4c_sg%eyr770
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['school-managment-system-delta.vercel.app', '.vercel.app', 'now.sh', 'localhost', '127.0.0.1']
 
 
 # Application definition
